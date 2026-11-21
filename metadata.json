@@ -1,0 +1,6 @@
+{
+  "name": "UCC Campus Guide",
+  "description": "Campus review and recommendation web application for University of Cape Coast (UCC) students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
